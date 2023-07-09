@@ -1,4 +1,4 @@
-# Banknote-Authentication-Flask-Streamlit-Docker..
+# Banknote-Authentication-Flask-Streamlit-Docker.
 
 ![/predict](https://github.com/VigneshwaranBS/Banknote-Authentication-Flask-Streamlit-Docker/assets/83588204/2177b41e-bf28-4ab4-9702-9400f3a888ed)
 
